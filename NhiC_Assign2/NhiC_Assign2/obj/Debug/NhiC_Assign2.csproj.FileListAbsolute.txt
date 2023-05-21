@@ -1,0 +1,43 @@
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.exe.config
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.exe
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.pdb
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.AssemblyReference.cache
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.Form1.resources
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.Properties.Resources.resources
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.GenerateResource.cache
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.exe
+C:\Users\Trang Ton Nguyen\Desktop\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.pdb
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.exe.config
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.exe
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.pdb
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.AssemblyReference.cache
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.Form1.resources
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.Properties.Resources.resources
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.GenerateResource.cache
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.exe
+C:\Users\300367933\Downloads\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.pdb
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\bin\Debug\NhiC_Assign2.exe.config
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\bin\Debug\NhiC_Assign2.exe
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\bin\Debug\NhiC_Assign2.pdb
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.AssemblyReference.cache
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\obj\Debug\NhiC_Assign2.Form1.resources
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\obj\Debug\NhiC_Assign2.Properties.Resources.resources
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.GenerateResource.cache
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\obj\Debug\NhiC_Assign2.exe
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2 (1)\NhiC_Assign2\obj\Debug\NhiC_Assign2.pdb
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.exe.config
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.exe
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\bin\Debug\NhiC_Assign2.pdb
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.AssemblyReference.cache
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.Form1.resources
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.Properties.Resources.resources
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.GenerateResource.cache
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.exe
+C:\Users\Trang Ton Nguyen\Downloads\OneDrive_2022-12-05\NhiC_Assign2\NhiC_Assign2\obj\Debug\NhiC_Assign2.pdb
