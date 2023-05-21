@@ -19,6 +19,7 @@ Generating reports:
 
 A sales report can be generated, saved into a CSV file named "grocerysales.csv", and lists only the items that have been sold, ordered by their total sales.
 A restock needs report can be generated, saved into a file named "groceryrestocks.csv", and includes items whose available quantity is less than the minimum quantity needed for restock.
+
 Providing feedback: Any action taken by the user results in an update to a status label on the UI, providing feedback about the operation performed.
 
 This Grocery Management System application can greatly enhance the efficiency of managing a grocery store's inventory, streamline operations, and provide valuable sales and restocking insights.
